@@ -1,6 +1,3 @@
-# Iancu Florentina-Mihaela
-# grupa 361
-
 import copy
 import time
 import sys
@@ -694,7 +691,6 @@ while True:
         print("\nEroare: Fisierul nu exista sau path-ul este gresit!")
     else:
         break
-
 
 #fo=open(r'C:\Users\Asus tuf\Desktop\University\ANUL3_S1\Inteligenta Artificiala\Proiect2\input&output\output.txt','w')
 
