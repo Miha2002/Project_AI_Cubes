@@ -1,1 +1,3 @@
-# Project_IA_cubes
+# Project Artificial Inteligence - Cubes
+
+In this project
