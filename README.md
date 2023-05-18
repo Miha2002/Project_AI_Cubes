@@ -11,3 +11,6 @@ The blocks can be moved around, but there are some rules:
 - The blocks cannot be moved on a block with the same color
 - If after moving a block we have a cube of a color between 2 cubes of the same color, then the one in the middle changes colors.
 e.g. 9[a]/3[r]/15[a]   =>   9[a]/3[a]/15[a]
+
+- Each move has a cost based on the cube's assigned number. The program tries to get that cost number as low as possible, meaning as few moves as possible.
+- At the end of the permutations, all columns must contain at least one cube.
