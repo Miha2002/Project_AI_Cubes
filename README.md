@@ -1,6 +1,7 @@
 # Project Artificial Inteligence - Cubes
 
 The input data for the program looks something like this:
+
 ![input_img](https://github.com/Miha2002/Project_AI_Cubes/assets/81815165/9226e45f-178a-41c7-963a-9419a68def7a)
 
 This represents cubes/blocks with different colors and numbers stacked on each other, creating columns. The endgoal is to have all the top blocks the same color.
